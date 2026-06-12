@@ -7,33 +7,33 @@
 ## Pages
 
 ### Home
-https://land-of-beauty-tours-e35c4f22.zappy5.app
+https://example.com
 Discover top-tier private transportation companies redefining mobility. Land of Beauty Tours delivers reliable, personalized rides for discerning travelers. Book your premium journey today!
 
 ### Services
-https://land-of-beauty-tours-e35c4f22.zappy5.app/services
+https://example.com/services
 From united freeway transportation to bespoke private journeys, explore our full suite of transport services. Land of Beauty Tours crafts seamless travel for every need. See the options now!
 
 ### About
-https://land-of-beauty-tours-e35c4f22.zappy5.app/about
+https://example.com/about
 Learn how Land of Beauty Tours sets the standard among private transportation companies. Our story is built on reliability, professionalism, and a passion for flawless journeys. Discover more!
 
 ### Contact
-https://land-of-beauty-tours-e35c4f22.zappy5.app/contact
+https://example.com/contact
 Ready for eliker transfer private transportation that exceeds expectations? Contact Land of Beauty Tours to book your ride or inquire about tailored mobility solutions. Let&#39;s move together!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://land-of-beauty-tours-e35c4f22.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://land-of-beauty-tours-e35c4f22.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://land-of-beauty-tours-e35c4f22.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://land-of-beauty-tours-e35c4f22.zappy5.app/contact
-- Endpoint: https://land-of-beauty-tours-e35c4f22.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -76,6 +76,6 @@ Transportation
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://land-of-beauty-tours-e35c4f22.zappy5.app/sitemap.xml
-- Robots: https://land-of-beauty-tours-e35c4f22.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://land-of-beauty-tours-e35c4f22.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
